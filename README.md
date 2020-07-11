@@ -6,5 +6,5 @@ HARMONIC/PERCUSSIVE SEPARATION USING MEDIAN FILTERING
 Derry FitzGerald, ∗
 Audio Research Group Dublin Institute of Technology Kevin St.,Dublin 2, Ireland derry.fitzgerald@dit.ie
 
-written during the Spotify Hackathon @ Spotify HQ in NYC
+written at the Spotify Hackathon @ Spotify HQ in NYC
 https://monthlymusichackathon.org/

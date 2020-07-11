@@ -1,5 +1,5 @@
 # Harmonic-Percussive-Separation
-Harmonic Percussive Separation adapted from
+Harmonic Percussive Separation adapted from D. Fitzgerald
 
 Proc. of the 13th Int. Conference on Digital Audio Effects (DAFx-10), Graz, Austria , September 6-10, 2010
 HARMONIC/PERCUSSIVE SEPARATION USING MEDIAN FILTERING
